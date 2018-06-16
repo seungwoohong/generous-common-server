@@ -1,0 +1,6 @@
+# ignore area
+
+dist
+node_modules
+test
+npm_debug.log
